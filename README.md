@@ -1,0 +1,2 @@
+# wsLocationVE
+### a Sails application
